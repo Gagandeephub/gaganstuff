@@ -33,8 +33,10 @@ public class Datedemo {
 		System.out.println(cal.get(Calendar.MONTH));
 		System.out.println(cal.get(Calendar.AM_PM));
 		
-		
-
+		System.out.println("Hi this is for git");
+		System.out.println("Hi this is for hit");
+		System.out.println("Hi this is for bit");
+		System.out.println("Hi this is for kit");
 	}
 
 }

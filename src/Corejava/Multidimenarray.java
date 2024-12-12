@@ -43,7 +43,7 @@ public class Multidimenarray {
 			}
 		}
 		System.out.println("Max num is "+maxnum);
-		
+		System.out.println("Max num is 19900");
 		
 
 	}

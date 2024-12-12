@@ -11,6 +11,7 @@ public class Functionoverriding extends Functionoverloading{
 		Functionoverriding fc = new Functionoverriding();
 		fc.getData(5);
 		fc.getData("Dad");
+		System.out.println("Max num is 09");
 	}
 
 }

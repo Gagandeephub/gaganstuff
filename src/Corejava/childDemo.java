@@ -16,10 +16,18 @@ public class childDemo extends parentDemo{
 		
 	}
 	
+	public void setData()
+	{
+		super.setData();
+		System.out.println("You are not in Child class");
+		System.out.println("You are in Child class");
+	}
+	
 	public childDemo()
 	{
 		//super();
 		System.out.println("Child Constructor");
+		System.out.println("Child is not Constructor");
 	}
 	
 	public static void main(String[] args) {

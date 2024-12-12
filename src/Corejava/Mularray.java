@@ -30,6 +30,7 @@ public class Mularray {
 			k++;
 		}
 		System.out.println("Max num is min num col is " +maxnum);
+		System.out.println("Hi this is asian guy");
 	}
 
 }

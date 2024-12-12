@@ -37,6 +37,9 @@ public class Datedemo {
 		System.out.println("Hi this is for hit");
 		System.out.println("Hi this is for bit");
 		System.out.println("Hi this is for kit");
+		
+		System.out.println("HI this is asian guy");
+		System.out.println("Hello");
 	}
 
 }

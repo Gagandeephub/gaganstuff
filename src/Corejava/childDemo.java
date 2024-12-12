@@ -27,7 +27,7 @@ public class childDemo extends parentDemo{
 	{
 		//super();
 		System.out.println("Child Constructor");
-		System.out.println("Child is not Constructor");
+		System.out.println("Child is also a Constructor");
 	}
 	
 	public static void main(String[] args) {

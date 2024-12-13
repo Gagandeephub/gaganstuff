@@ -40,6 +40,7 @@ public class Datedemo {
 		
 		System.out.println("HI this is asian guy");
 		System.out.println("Hello");
+		System.out.println("Bye");
 	}
 
 }

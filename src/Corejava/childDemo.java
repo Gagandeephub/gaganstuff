@@ -28,6 +28,7 @@ public class childDemo extends parentDemo{
 		childDemo cd = new childDemo();
 		cd.getData();
 		cd.setData();
+		
 	}
 
 }

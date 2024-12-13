@@ -5,10 +5,7 @@ e
 r
 t
 y
-u
-i
-o
-p
+
 
 Number 
 1
@@ -21,3 +18,4 @@ Number
 8
 9
 10
+
